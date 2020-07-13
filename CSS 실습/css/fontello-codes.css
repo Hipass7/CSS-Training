@@ -1,0 +1,11 @@
+
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-users:before { content: '\e801'; } /* '' */
+.icon-home:before { content: '\e802'; } /* '' */
+.icon-lock:before { content: '\e803'; } /* '' */
+.icon-thumbs-up:before { content: '\e804'; } /* '' */
+.icon-chat:before { content: '\e805'; } /* '' */
+.icon-rss:before { content: '\f09e'; } /* '' */
+.icon-gamepad:before { content: '\f11b'; } /* '' */
+.icon-info:before { content: '\f129'; } /* '' */
+.icon-male:before { content: '\f183'; } /* '' */

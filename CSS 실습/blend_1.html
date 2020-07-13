@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+            .blend{
+                height:200px;
+                width:300px;
+                border:5px solid;
+                background-color: rgba(255,0,0,0.5);
+                background-size:contain;
+                background-repeat:no-repeat;
+                background-image: url('1.jpg');
+                transition:background-color 2s;
+                float:left;
+            }
+            .blend:hover{
+                
+                background-blend-mode:saturation;
+                transition:background-color 5s;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="blend">
+
+        </div>
+        <div class='blend'>
+
+        </div>
+    </body>
+</html>
